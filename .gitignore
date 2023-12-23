@@ -1,0 +1,8 @@
+# venv & cached files 
+.env
+.venv
+
+## Llama2 files
+llama-2-7b-chat
+tokenizer_checklist.chk
+tokenizer.model
