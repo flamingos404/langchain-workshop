@@ -1,3 +1,17 @@
+# general purpose
+python-dotenv
+
+# notebooks and viz
+ipython
+ipykernel
+
+## llama dependencies
+torch
+fairscale
+fire
+sentencepiece
+
+## LangChain stuff
 langchain[llms]
 openai
-python-dotenv
+llama-cpp-python

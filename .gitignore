@@ -2,6 +2,8 @@
 .env
 .venv
 
+*.gguf
+
 ## Llama2 files
 llama-2-7b-chat
 tokenizer_checklist.chk
