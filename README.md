@@ -46,8 +46,7 @@ I'm thrilled about the potential and would love your thoughts on making this hap
 
 #### Quantization and model format
 
-<https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGU
-
+<<https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGU>
 
 ## RAG chains
 
@@ -65,11 +64,13 @@ RAG models have been used in various natural language understanding and generati
 
 ### Why?
 
+### Tools
+
+- `Thebloke` quantized version of llama2-7B-chat (medium 4Go): <https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/blob/main/llama-2-7b-chat.Q4_K_M.gguf>
+
 ### How?
 
 - RAG pipelines: <https://medium.com/@madhur.prashant7/demo-langchain-rag-demo-on-llama-2-7b-embeddings-model-using-chainlit-559c10ce3fbf>
-
-
 
 ## Some references
 
